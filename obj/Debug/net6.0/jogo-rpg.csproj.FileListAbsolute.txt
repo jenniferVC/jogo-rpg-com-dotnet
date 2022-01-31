@@ -1,0 +1,15 @@
+C:\bootcamp-gft-dotnet\jogo-rpg\obj\Debug\net6.0\jogo-rpg.csproj.AssemblyReference.cache
+C:\bootcamp-gft-dotnet\jogo-rpg\obj\Debug\net6.0\jogo-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp-gft-dotnet\jogo-rpg\obj\Debug\net6.0\jogo-rpg.AssemblyInfoInputs.cache
+C:\bootcamp-gft-dotnet\jogo-rpg\obj\Debug\net6.0\jogo-rpg.AssemblyInfo.cs
+C:\bootcamp-gft-dotnet\jogo-rpg\obj\Debug\net6.0\jogo-rpg.csproj.CoreCompileInputs.cache
+C:\bootcamp-gft-dotnet\jogo-rpg\bin\Debug\net6.0\jogo-rpg.exe
+C:\bootcamp-gft-dotnet\jogo-rpg\bin\Debug\net6.0\jogo-rpg.deps.json
+C:\bootcamp-gft-dotnet\jogo-rpg\bin\Debug\net6.0\jogo-rpg.runtimeconfig.json
+C:\bootcamp-gft-dotnet\jogo-rpg\bin\Debug\net6.0\jogo-rpg.dll
+C:\bootcamp-gft-dotnet\jogo-rpg\bin\Debug\net6.0\ref\jogo-rpg.dll
+C:\bootcamp-gft-dotnet\jogo-rpg\bin\Debug\net6.0\jogo-rpg.pdb
+C:\bootcamp-gft-dotnet\jogo-rpg\obj\Debug\net6.0\jogo-rpg.dll
+C:\bootcamp-gft-dotnet\jogo-rpg\obj\Debug\net6.0\ref\jogo-rpg.dll
+C:\bootcamp-gft-dotnet\jogo-rpg\obj\Debug\net6.0\jogo-rpg.pdb
+C:\bootcamp-gft-dotnet\jogo-rpg\obj\Debug\net6.0\jogo-rpg.genruntimeconfig.cache
